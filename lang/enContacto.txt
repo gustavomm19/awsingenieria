@@ -1,0 +1,17 @@
+titulo-web=>Contact
+inicio=>Home
+quienes-somos=>Who are we
+servicios=>Services
+proyectos=>Projects
+clientes=>Clients
+contacto=>Contact
+multimedia=>Multimedia
+titulo=>You can contact us through this formulary
+nombre-error=>Please enter a name
+correo-error=>Please enter an email adres
+mensaje-error=>Please write a message
+contactanos=>Contact us
+ubicacion=>Location
+direccion=>Avenida Sur, Building Dumas, office 3, urbanization Altamira. Caracas, Venezuela.
+telefono=>Phone: +58-212-2679625
+celular=>Cellphone

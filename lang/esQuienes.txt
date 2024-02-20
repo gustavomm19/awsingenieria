@@ -1,0 +1,15 @@
+titulo-web=>Quienes somos
+inicio=>Inicio
+quienes-somos=>Quienes somos
+servicios=>Servicios
+proyectos=>Proyectos
+clientes=>Clientes
+contacto=>Contacto
+quienes-titulo=>Quienes Somos
+p=>Somos una empresa de ingenier&iacute;a con amplia experiencia en el desarrollo de proyectos de estructuras y en construcciones civiles de todo tipo.
+caracteristicas=>Caracter&iacute;sticas
+experiencia=>Amplia experiencia, m&aacute;s de XXX proyectos calculados
+contact=>Siempre en contacto
+entregas=>Entregas a tiempo
+software=>Utilizamos software original
+calculo=>Expertos en c&aacute;lculo

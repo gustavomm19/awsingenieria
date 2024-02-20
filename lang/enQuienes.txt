@@ -1,0 +1,16 @@
+titulo-web=>Who are we
+inicio=>Home
+quienes-somos=>Who are we
+servicios=>Services
+proyectos=>Projects
+clientes=>Clients
+contacto=>Contact
+multimedia=>Multimedia
+titulo=>Who are we
+p=>We are an engineering company with extensive experience in the development of structural projects and civil constructions of all kinds.
+caracteristicas=>Characteristics
+experiencia=>Extensive experience, more than XXX projects calculated
+contact=>Always in touch
+entregas=>Turns in always on time
+software=>We use original software
+calculo=>Calculation experts

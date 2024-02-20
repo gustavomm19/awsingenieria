@@ -1,0 +1,16 @@
+titulo-web=>Contacto
+inicio=>Inicio
+quienes-somos=>Quienes somos
+servicios=>Servicios
+proyectos=>Proyectos
+clientes=>Clientes
+contacto=>Contacto
+titulo=>Puedes ponerte en contacto con nosotros a traves del siguiente formulario
+nombre-error=>Por favor ingrese un nombre
+correo-error=>Por favor ingrese un correo
+mensaje-error=>Por favor escriba un mensaje
+contactanos=>Cont&aacute;ctanos
+ubicacion=> Ubicaci&oacute;n
+direccion=> Avenida Sur, edif. Dumas, oficina 3, urb. Altamira. Caracas, Venezuela.
+telefono=>Tel&eacute;fono: +58-212-2679625
+celular=>Celular

@@ -1,0 +1,43 @@
+.footer{
+	margin-top: 50px;
+	height:200px;
+	margin: auto;
+	text-align: center;
+	background: #2d353e;
+	color:#fff;
+	display: flex;
+  	justify-content: center;
+  	flex-direction: column;
+	.copyright{
+		font-weight: 300;
+    	font-size: 25px;
+	}
+	
+	.contacto,
+	.redes{
+		h4{
+			margin-bottom: 10px;
+			font-size: 30px;
+		}
+	}
+
+	.redes{
+		text-align: right;
+		.linkedin{
+			margin-top: 25px;
+			font-size: 25px;
+			background: #0077b5;
+			color:#fff;
+			padding: 8px 13px;
+			border-radius: 8px;
+			float: right;
+		}
+		p{
+			float: right;
+			padding-top: 40px;
+			font-size: 20px;
+			margin-left: 15px;
+		}
+	}
+}
+
